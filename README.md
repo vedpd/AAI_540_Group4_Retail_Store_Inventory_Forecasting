@@ -588,12 +588,13 @@ All pipeline behavior is controlled by `config.yaml`:
 ## Contributors
 
 - Ved Prakash Dwivedi
-- Jagdish Mane
-- Tamayi Mlanda
+- Bhavleen Bhavleen
+- Ritesh Jain
+ 
 
 ### Faculty Advisor
 
-- Prof. Azka Azka
+- Prof. Zahid Wani
 
 University of San Diego – Applied Artificial Intelligence Program
 

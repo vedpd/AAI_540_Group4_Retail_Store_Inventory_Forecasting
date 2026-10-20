@@ -1,6 +1,6 @@
 # Retail Store Inventory Demand Forecasting
 
-**Group 4 — AAI-540 Final Project**
+**Group 4 : AAI-540 Final Project**
 
 **Business scenario:** Retail Store Inventory Forecasting (academic project)
 **Date:** October 2026
